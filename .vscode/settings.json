@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "/home/madhav/venv/bin/python3",
+  "python.autoComplete.extraPaths": ["../"],
+  "editor.tabSize": 4
+}
