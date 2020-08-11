@@ -1,0 +1,11 @@
+name: python-fundamentals
+channels:
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pip
+  - pip:
+    - sklearn
+    - pandas
+    - matplotlib
